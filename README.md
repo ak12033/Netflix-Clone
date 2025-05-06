@@ -60,7 +60,7 @@ To get started with the netflix-clone project, follow these steps:
    npm install
    ```
 
-4. **Start the Server**: In the `netflix-clone` folder, start the application:
+4. **Start the Server**:
 
    ```
    npm run dev
